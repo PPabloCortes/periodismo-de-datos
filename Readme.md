@@ -1,6 +1,4 @@
-¨# intro-al-periodismo-de-dato¨
-Anotaciones hipotéticas
-Más anotaciones
+Intro al periodismo de datos
 
 Lista ordenada
 
