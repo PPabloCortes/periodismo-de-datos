@@ -1,5 +1,13 @@
-Intro al periodismo de datos
+*Intro al periodismo de datos*
 
-Lista ordenada
+**Pedro Pablo Cortés Villarreal**
 
-Lista desordenada
+# Lista ordenada
+1. Uno 
+2. Dos 
+3. Tres
+
+# Lista desordenada
+Árbol
+Rama
+Tronco
